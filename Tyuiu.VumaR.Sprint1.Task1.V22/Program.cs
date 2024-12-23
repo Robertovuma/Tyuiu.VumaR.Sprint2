@@ -9,7 +9,7 @@ namespace Tyuiu.VumaR.Sprint1.Task1.V22
         {
             DataService ds = new DataService();
 
-            int a = 247, b = 654, c = 671, d = 671;
+            int a = 247, b = 654, c = 671, d = 671; 
             bool[] res = new bool[6];
             res = ds.GetLogicOperations(a, b, c, d);
 
