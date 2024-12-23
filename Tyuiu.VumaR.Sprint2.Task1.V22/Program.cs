@@ -29,7 +29,7 @@ namespace Tyuiu.VumaR.Sprint2.Task1.V22
 
             Console.WriteLine($"a = {a}");
             Console.WriteLine($"b = {b}");
-            Console.WriteLine($"c = {c}");
+            Console.WriteLine($"c = {c}"); 
             Console.WriteLine($"d = {d}");
 
             Console.WriteLine("***************************************************************************");
