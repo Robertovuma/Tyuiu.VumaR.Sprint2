@@ -21,11 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint2.Task1.V
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{E1C0DC80-0EFC-49B0-9264-BC1BD001F425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint1.Task2.V23", "Tyuiu.VumaR.Sprint1.Task2.V23\Tyuiu.VumaR.Sprint1.Task2.V23.csproj", "{6719D82E-B032-4DB2-811F-3C031E9C558D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint2.Task2.V23", "Tyuiu.VumaR.Sprint1.Task2.V23\Tyuiu.VumaR.Sprint2.Task2.V23.csproj", "{6719D82E-B032-4DB2-811F-3C031E9C558D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint1.Task2.V23.Lib", "Tyuiu.VumaR.Sprint1.Task2.V23.Lib\Tyuiu.VumaR.Sprint1.Task2.V23.Lib.csproj", "{350D5254-058B-4715-89DF-D7FF918C2E73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint2.Task2.V23.Lib", "Tyuiu.VumaR.Sprint1.Task2.V23.Lib\Tyuiu.VumaR.Sprint2.Task2.V23.Lib.csproj", "{350D5254-058B-4715-89DF-D7FF918C2E73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint1.Task2.V23.Test", "Tyuiu.VumaR.Sprint1.Task2.V23.Test\Tyuiu.VumaR.Sprint1.Task2.V23.Test.csproj", "{68C89CAA-B5A1-4AD8-B65A-718CA7370C41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint2.Task2.V23.Test", "Tyuiu.VumaR.Sprint1.Task2.V23.Test\Tyuiu.VumaR.Sprint2.Task2.V23.Test.csproj", "{68C89CAA-B5A1-4AD8-B65A-718CA7370C41}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{AF2160EA-7B77-4AA6-A4BE-2CB1E2A3E91F}"
 EndProject
