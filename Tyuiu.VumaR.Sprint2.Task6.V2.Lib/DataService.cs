@@ -23,5 +23,6 @@ namespace Tyuiu.VumaR.Sprint2.Task6.V2.Lib
                 case 12: return "Зима";
                 default: throw new ArgumentException($"Месяц должен быть от 1 до 12. Значение {value}"); ;
             }
+        }
     }
 }
