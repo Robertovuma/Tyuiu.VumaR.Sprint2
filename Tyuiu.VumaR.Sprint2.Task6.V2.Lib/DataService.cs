@@ -17,9 +17,9 @@ namespace Tyuiu.VumaR.Sprint2.Task6.V2.Lib
                 case 6: return "Лето";
                 case 7: return "Лето";
                 case 8: return "Лето";
-                case 9: return "Осень";
-                case 10: return "Осень";
-                case 11: return "Осень";
+                case 9: return "осень";
+                case 10: return "осень";
+                case 11: return "осень";
                 case 12: return "Зима";
                 default: throw new ArgumentException($"Месяц должен быть от 1 до 12. Значение {value}"); ;
             }
